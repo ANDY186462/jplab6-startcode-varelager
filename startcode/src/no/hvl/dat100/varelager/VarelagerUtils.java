@@ -4,6 +4,9 @@ public class VarelagerUtils {
 
 	public static Vare finnBilligste(Vare[] varer) {
 		
+		for(int i = 0; i < varer.length; i++) {
+			double billig
+		}
 		throw new TODO("finnBilligste");
 
 	}
